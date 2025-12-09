@@ -1,0 +1,19 @@
+# Core Dependencies
+metatrader5
+python-dotenv
+newsapi-python
+tradingeconomics
+ta-lib
+rich
+scikit-learn
+ta
+requests
+python-dateutil
+numpy
+pandas
+google-genai
+python-dotenv
+google-generativeai
+yfinance
+pyinstaller
+matplotlib
